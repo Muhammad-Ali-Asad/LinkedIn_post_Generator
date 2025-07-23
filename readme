@@ -1,0 +1,4 @@
+to run this project activate .venv using
+.\.venv\scripts\activate
+then run
+streamlit run main.py 
